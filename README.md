@@ -1,3 +1,3 @@
-# sample-commandplay
+# Welcome to sample-commandplay
 
-sample repo for Pluralsight course
+This is a sample repo for Pluralsight course for pushing and fetching elements.
